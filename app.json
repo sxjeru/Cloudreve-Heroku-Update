@@ -35,7 +35,7 @@
       },
       "DB_TablePrefix": {
         "description": "Database TablePrefix",
-        "value": "cd"
+        "value": "cd_"
       }
     },
     "stack": "container"
