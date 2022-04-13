@@ -5,8 +5,7 @@
     "website": "https://ifibe.com/posts/c12ba40e/",
     "keywords": ["cloudreve", "redis", "netdisc", "share"],
     "addons": [
-      "heroku-postgresql:hobby-dev",
-      "heroku-redis:hobby-dev"
+      "heroku-postgresql:hobby-dev"
     ],
     "stack": "container"
   }
