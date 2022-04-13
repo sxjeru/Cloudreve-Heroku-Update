@@ -6,8 +6,7 @@
     "keywords": ["cloudreve", "redis", "netdisc", "share"],
     "addons": [
       "heroku-postgresql:hobby-dev",
-      "heroku-redis:hobby-dev",
-      "logdna:quaco"
+      "heroku-redis:hobby-dev"
     ],
     "stack": "container"
   }
