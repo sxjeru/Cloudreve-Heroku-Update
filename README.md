@@ -4,7 +4,7 @@ Cloudreve with redis的Docker版本
 
 ---
 
-一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/useblue/Cloudreve-Heroku)
+一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 
 ---
 
@@ -16,7 +16,7 @@ Cloudreve with redis的Docker版本
 
 使用redis:alpine镜像制作，默认开启Redis缓存服务
 
-容器中的Cloudreve版本为 cloudreve_3.4.0_linux_amd64
+容器中的Cloudreve版本为 cloudreve_3.4.2_linux_amd64
 
 ---
 
