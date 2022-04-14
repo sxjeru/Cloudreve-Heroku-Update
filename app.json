@@ -25,7 +25,7 @@
         "description": "Database Name",
         "value": "v3"
       },
-      "DB_PORT": {
+      "DB_Port": {
         "description": "Database Port",
         "value": "3306"
       },
