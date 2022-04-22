@@ -1,12 +1,12 @@
 #### Fork 自 useblue/Cloudreve-Heroku
 ### Cloudreve-Heroku with Redis
 
-Cloudreve with redis的Docker版本
+Cloudreve with redis 的 Docker 版本
 
 ---
 
-一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
-
+一键部署在 Heroku 上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
+（若无法使用，请先fork后再部署）
 ---
 
 查看Heroku Redis + Heroku Postgres版：https://github.com/useblue/Cloudreve-Heroku/tree/Cloudreve-Heroku
