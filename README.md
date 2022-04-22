@@ -1,14 +1,14 @@
-#### Cloudreve-Heroku with Redis + Jawsdb Mysql(需要已验证的Heroku账户)
+#### Cloudreve-Heroku with Redis + Jawsdb Mysql (需要已验证的Heroku账户)
 
 Cloudreve with redis的Docker版本
 
 ---
 
-一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/useblue/Cloudreve-Heroku/tree/Heroku-mysql)
+一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ---
 
-查看自定义版：https://github.com/useblue/Cloudreve-Heroku/
+查看自定义版：https://github.com/sxjeru/Cloudreve-Heroku-Update
 
 查看Heroku Redis + Heroku Postgres版：https://github.com/useblue/Cloudreve-Heroku/tree/Cloudreve-Heroku
 
